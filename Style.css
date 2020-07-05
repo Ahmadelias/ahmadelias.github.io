@@ -1,0 +1,30 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 200;
+	margin-bottom: 30;
+	padding: 200px 0 0 0;
+}
+body {
+	background-color: black;
+}
+img {
+	padding: 5;
+	width: 1100px;
+	display: grid;
+	margin: auto;
+}
+.btn {
+	background-color: red;
+	padding: 20px;
+	border-radius: 30px;
+	color: blanchedalmond;
+	cursor: pointer;
+	display: grid;
+	margin: auto;
+}
+.btn:hover {
+	background-color: aliceblue;
+	color: brown;
+}
